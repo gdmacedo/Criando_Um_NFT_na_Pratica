@@ -1,6 +1,6 @@
-## Criando o Seu Primeiro Token do Zero nos Padrões Web3
+## Criando um NFT na Prática
 ### Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
-### Data.: 25 de julho de 2024.
+### Data.: 26 de julho de 2024.
 
 ### Orientador:
 Ricardo Zago - Avalon Blockchain Consulting
@@ -9,25 +9,21 @@ Ricardo Zago - Avalon Blockchain Consulting
 </p>
 
 ### DESCRIÇÃO
-Aprender, desenvolver, como criar um Token do zero nos Padrões Web3. 
-Este projeto teve o objetivo de criar, a partir das instruções do Instrutor Ricardo Zago, um Token do zero. 
-Para isso, foi indispensável seguir os passo a passo para a configuração da Wallet Metamask e do RPC info. 
-Posteriormente, a partir do código base e das instruções, foi feito as alterações necessárias utilizando a IDE REMIX e então fazer o deploy do seu Token.
+Este projeto teve como objetivo criar um Token Não Fungível, o famoso NFT, na Blockchain gratuita OpenSea Polygon. 
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gdmacedo/TokenNosPadr-esWeb3/main/Token_GLENER_001.jpg" alt="Transação">
+  <img src="https://raw.githubusercontent.com/gdmacedo/Criando_Um_NFT_na_Pratica/main/Create.jpg" alt="Minha Criação Inicial">
 </p>
 
 
 ### Tecnologias Utilizadas
 Neste projeto foi utilizado, as seguintes ferramentas:
-- Entendendo a Linguagem Soldty;
 - Operando Remix IDE;
 - Configurando Metamask - https://metamask.io/​
-- Criando o seu Token
 - Entendendo o Desafio
 - rpc.info / Ganache
-- remix.ethereum.org
+- opensea.io - Plataforma de criação de nosso NFT.
 
 
 <p align="center">
